@@ -1,0 +1,8 @@
+jupyter-book
+seaborn
+numpy
+scipy
+pandas
+matplotlib
+pyproj
+geopandas
